@@ -1,0 +1,11 @@
+baseURL = "https://zntr.io/"
+languageCode = "en-us"
+title = "zntr.io"
+
+theme = "hugo-theme-vanity"
+author = "Thibault NORMAND"
+copyright = "Copyright © 2023 Thibault NORMAND; all rights reserved."
+paginate = 8
+
+[params]
+    redirect = false

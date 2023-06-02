@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "head.html" . }}
+    {{ block "redirect" . }}{{ end }}
+  </head>
+  <body>
+    <div id="content" class="container">
+      {{ block "main" . }}{{ end }}
+    </div>
+    <div id="footer" class="container">
+      {{ partial "footer.html" . }}
+    </div>
+    <script src="/js/prism.js"></script>
+  </body>
+</html>
