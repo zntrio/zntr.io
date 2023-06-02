@@ -8,4 +8,4 @@ copyright = "Copyright © 2023 Thibault NORMAND; all rights reserved."
 paginate = 8
 
 [params]
-    redirect = false
+    redirect = true
