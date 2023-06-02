@@ -5,4 +5,5 @@ draft: false
 repository: github.com/zntrio/harp
 godoc: pkg.go.dev/zntr.io/harp
 tags: [package]
+description: Secret management by contract tool
 ---

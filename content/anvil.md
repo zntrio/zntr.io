@@ -5,4 +5,5 @@ draft: false
 repository: github.com/zntrio/anvil
 godoc: pkg.go.dev/zntr.io/anvil
 tags: [package]
+description: Asymmetric authentication library
 ---

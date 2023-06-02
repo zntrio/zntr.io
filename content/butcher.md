@@ -5,4 +5,5 @@ draft: false
 repository: github.com/zntrio/butcher
 godoc: pkg.go.dev/zntr.io/butcher
 tags: [package]
+description: Password storage library
 ---

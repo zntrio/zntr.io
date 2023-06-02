@@ -5,4 +5,5 @@ draft: false
 repository: github.com/zntrio/paseto
 godoc: pkg.go.dev/zntr.io/paseto
 tags: [package]
+description: PASETO v3/v4 token library
 ---

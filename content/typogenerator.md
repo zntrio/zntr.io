@@ -5,4 +5,5 @@ draft: false
 repository: github.com/zntrio/typogenerator
 godoc: pkg.go.dev/zntr.io/typogenerator
 tags: [package]
+description: Permutation engine for typosquatting
 ---

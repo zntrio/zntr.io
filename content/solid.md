@@ -5,4 +5,5 @@ draft: false
 repository: github.com/zntrio/solid
 godoc: pkg.go.dev/zntr.io/solid
 tags: [package]
+description: OpenID Connect 2.x framework
 ---
