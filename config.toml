@@ -7,5 +7,15 @@ author = "Thibault NORMAND"
 copyright = "Copyright © 2023 Thibault NORMAND; all rights reserved."
 paginate = 10
 
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepComments = false
+      keepConditionalComments = true
+      keepDefaultAttrVals = true
+      keepDocumentTags = true
+      keepEndTags = true
+      keepQuotes = true
+
 [params]
     redirect = true
